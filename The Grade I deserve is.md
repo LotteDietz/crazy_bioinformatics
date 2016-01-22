@@ -6,4 +6,6 @@ Here you see my profile, including the repositories I made (crazy_bioinformatics
 ![Profilepage](/Screenshots/Schermafbeelding 2016-01-22 om 15.55.32.png)
 Here you see my Contribution activity:
 ![Profilepage](/Screenshots/Schermafbeelding 2016-01-22 om 15.36.26.png)
+Here you can see all the files I created in my depository crazy_bioinformatics. Feel free to look around:
+![ContentsOfDepository](/Screenshots/Schermafbeelding 2016-01-22 om 16.53.49.png)
 
